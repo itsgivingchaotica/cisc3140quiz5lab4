@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Inter&family=Poppins:wght@300;600&family=Raleway:wght@100&display=swap');
+
+.menu--box {
+    width: 900px;
+    height: 500px;
+    border: 15px solid black;
+    padding: 50px;
+    margin-left: 250px;
+    margin-right: auto;
+    margin-top: 20rem;
+    text-align: center;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+    background-image: linear-gradient(120deg, #fccb90 0%, #d57eeb 100%);
+    display: inline-block;
+    vertical-align: top;
+}
+
+.information{
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  font-family: Poppins;
+  text-align: center;
+}
+
+body {
+    padding: 50px;
+}
